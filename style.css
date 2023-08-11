@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+
+#cityInput {
+  padding: 5px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+#cityName {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.weather-card {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  margin-top: 20px;
+}
+
+#temperature {
+  font-size: 36px;
+  margin: 10px 0;
+}
+
+#description {
+  margin: 0;
+}
