@@ -39,7 +39,7 @@ To run the Weather App locally on your machine, follow these steps:
 
 ## API Key
 
-This project uses the OpenWeatherMap API to fetch weather data. To use the API, you need to obtain an API key from the OpenWeatherMap website. Follow the instructions provided in the [API Key section](#api-key) of the `script.js` file to replace with YOUR_OPENWEATHERMAP_API_KEY. Currently it has my key, feel free to reuse as long as it works.
+This project uses the OpenWeatherMap API to fetch weather data. To use the API, you need to obtain an API key from the OpenWeatherMap website. Currently it has my key, feel free to reuse as long as it works.
 
 ## Contributing
 
