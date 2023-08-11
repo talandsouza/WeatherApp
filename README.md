@@ -26,7 +26,7 @@ The Weather App is a user-friendly web application that enables users to check t
 
 To run the Weather App locally on your machine, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/WeatherApp.git`
+1. Clone this repository: `git clone https://github.com/talandsouza/WeatherApp.git`
 2. Navigate to the project directory: `cd WeatherApp`
 3. Open `index.html` in your preferred web browser.
 
